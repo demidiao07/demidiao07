@@ -56,5 +56,5 @@ I care about building ML systems that are **grounded in real data**, **evaluated
 ---
 
 ## 📫 Get in Touch
-- LinkedIn: [Wenshu Diao](https://www.linkedin.com/in/wenshu-diao-215489354/)
+- LinkedIn: [Wenshu Diao](https://www.linkedin.com/in/wenshu-diao/)
 - Email: wenshu.diao07@gmail.com
