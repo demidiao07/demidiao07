@@ -4,7 +4,6 @@ I’m a graduate student in **Machine Learning & Data Science** at **Northwester
 
 I enjoy working on problems where data is **messy, evolving, or out of distribution**, and where model performance depends as much on system design and evaluation as on algorithms.
 
----
 
 ## 🧠 Tools & Skills
 - **Languages:** Python, R, SQL  
@@ -13,7 +12,6 @@ I enjoy working on problems where data is **messy, evolving, or out of distribut
 - **Infra:** Docker, virtual environments  
 - **LLMs:** OpenAI API, LangChain, ChromaDB  
 
----
 
 ## 📫 Get in Touch
 - LinkedIn: [Wenshu Diao](https://www.linkedin.com/in/wenshu-diao/)
